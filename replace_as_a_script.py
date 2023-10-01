@@ -20,8 +20,6 @@ def replace_words(text, replacements):
 
 
 
-
-
 replacements = {
     "ABN": "ABN AMRO",
     "ING": "ING Bank",
