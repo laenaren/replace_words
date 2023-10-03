@@ -10,7 +10,7 @@ This is a POC version
 Example usage: 
 `curl -X POST http://tmnl-1207112598.eu-west-1.elb.amazonaws.com -H "Content-Type: application/json" -d '{"text": "The analysts of trioDOs did a great job!"}' `
 
-Exected output
+Expected output
 {"original": "The analysts of trioDOs did a great job!", "processed": "The analysts of Triodos Bank did a great job!"}
 
 
