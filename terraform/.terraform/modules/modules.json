@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb","Source":"../modules/api-gateway","Dir":""},{"Key":"lambda","Source":"../modules/lambda","Dir":""}]}
